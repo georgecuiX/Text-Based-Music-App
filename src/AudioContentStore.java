@@ -1,5 +1,3 @@
-// Name: George Cui
-// Student ID: 501164481
 // Simulation of audio content in an online store
 // The songs, podcasts, audiobooks listed here can be "downloaded" to your library
 
