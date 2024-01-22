@@ -1,6 +1,4 @@
 /*
- * Name: George Cui
- * Student ID: 501164481
  * A Playlist contains an array list of AudioContent (i.e. Song, AudioBooks, Podcasts) from the library
  */
 
