@@ -1,5 +1,4 @@
 // Name: George Cui
-// Student ID: 501164481
 // Simulation of a Simple Text-based Music App (like Apple Music)
 
 import java.sql.SQLOutput;
