@@ -1,6 +1,4 @@
 /*
- * Name: George Cui
- * Student ID: 501164481
  * This class manages, stores, and plays audio content such as songs, podcasts and audiobooks.
  */
 
