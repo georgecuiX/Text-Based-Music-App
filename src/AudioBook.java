@@ -1,6 +1,4 @@
 /*
- * Name: George Cui
- * Student ID: 501164481
  * An AudioBook is a type of AudioContent.
  * It is a recording made available on the internet of a book being read aloud by a narrator
  */
