@@ -9,7 +9,6 @@ This is a simple text-based music application developed as a part of a school pr
 - **Audio Content Store:** Simulates an online store environment where users can "download" songs, podcasts, and audiobooks to their library.
 - **Library Management:** Stores and plays the downloaded audio content.
 - **Playlist Functionality:** Allows users to create playlists containing an array of audio content from their library.
-- **User Interface:** Simple text-based UI for navigating the music app.
 
 ## How to Run the Program
 1. Ensure Java is installed on your computer.
